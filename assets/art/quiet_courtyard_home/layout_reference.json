@@ -1,0 +1,355 @@
+{
+  "reference_size": [
+    941,
+    1672
+  ],
+  "coordinate_system": "top-left pixels; convert to actual Cocos parent space",
+  "male_selected": [
+    {
+      "id": "title",
+      "file": "assets/ui/title_plate.png",
+      "rect_top_left_xywh": [
+        175,
+        15,
+        590,
+        160
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "settings",
+      "file": "assets/ui/settings_button.png",
+      "rect_top_left_xywh": [
+        821,
+        32,
+        95,
+        100
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "panel",
+      "file": "assets/ui/selection_panel.png",
+      "rect_top_left_xywh": [
+        55,
+        605,
+        830,
+        995
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "section_heading",
+      "file": "assets/ui/section_title_plate.png",
+      "rect_top_left_xywh": [
+        250,
+        557,
+        440,
+        110
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "card_male",
+      "file": "assets/ui/card_selected.png",
+      "rect_top_left_xywh": [
+        103,
+        682,
+        363,
+        718
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "character_male",
+      "file": "assets/character/male_stand.png",
+      "rect_top_left_xywh": [
+        63,
+        650,
+        460,
+        690
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "name_male",
+      "file": "assets/ui/name_plate.png",
+      "rect_top_left_xywh": [
+        155,
+        1292,
+        258,
+        75
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "badge_male",
+      "file": "assets/ui/selected_badge.png",
+      "rect_top_left_xywh": [
+        377,
+        703,
+        67,
+        67
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "card_female",
+      "file": "assets/ui/card_normal.png",
+      "rect_top_left_xywh": [
+        478,
+        682,
+        363,
+        718
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "character_female",
+      "file": "assets/character/female_stand.png",
+      "rect_top_left_xywh": [
+        438,
+        650,
+        460,
+        690
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "name_female",
+      "file": "assets/ui/name_plate.png",
+      "rect_top_left_xywh": [
+        530,
+        1292,
+        258,
+        75
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "enter",
+      "file": "assets/ui/enter_button.png",
+      "rect_top_left_xywh": [
+        192,
+        1440,
+        560,
+        125
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "female_selected": [
+    {
+      "id": "title",
+      "file": "assets/ui/title_plate.png",
+      "rect_top_left_xywh": [
+        175,
+        15,
+        590,
+        160
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "settings",
+      "file": "assets/ui/settings_button.png",
+      "rect_top_left_xywh": [
+        821,
+        32,
+        95,
+        100
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "panel",
+      "file": "assets/ui/selection_panel.png",
+      "rect_top_left_xywh": [
+        55,
+        605,
+        830,
+        995
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "section_heading",
+      "file": "assets/ui/section_title_plate.png",
+      "rect_top_left_xywh": [
+        250,
+        557,
+        440,
+        110
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "card_male",
+      "file": "assets/ui/card_normal.png",
+      "rect_top_left_xywh": [
+        103,
+        682,
+        363,
+        718
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "character_male",
+      "file": "assets/character/male_stand.png",
+      "rect_top_left_xywh": [
+        63,
+        650,
+        460,
+        690
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "name_male",
+      "file": "assets/ui/name_plate.png",
+      "rect_top_left_xywh": [
+        155,
+        1292,
+        258,
+        75
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "card_female",
+      "file": "assets/ui/card_selected.png",
+      "rect_top_left_xywh": [
+        478,
+        682,
+        363,
+        718
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "character_female",
+      "file": "assets/character/female_stand.png",
+      "rect_top_left_xywh": [
+        438,
+        650,
+        460,
+        690
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "name_female",
+      "file": "assets/ui/name_plate.png",
+      "rect_top_left_xywh": [
+        530,
+        1292,
+        258,
+        75
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "badge_female",
+      "file": "assets/ui/selected_badge.png",
+      "rect_top_left_xywh": [
+        752,
+        703,
+        67,
+        67
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "enter",
+      "file": "assets/ui/enter_button.png",
+      "rect_top_left_xywh": [
+        192,
+        1440,
+        560,
+        125
+      ],
+      "anchor_cocos": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "text": {
+    "title": "小院静一静",
+    "subtitle": "忙了一天，进来坐坐",
+    "section_heading": "选择角色",
+    "name_male": "男角色",
+    "name_female": "女角色",
+    "enter": "进入佛堂"
+  }
+}

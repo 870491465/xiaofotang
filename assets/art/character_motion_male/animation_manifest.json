@@ -1,0 +1,830 @@
+{
+  "pray": {
+    "frames": [
+      "frames/pray/pray_01.png",
+      "frames/pray/pray_02.png",
+      "frames/pray/pray_03.png",
+      "frames/pray/pray_04.png",
+      "frames/pray/pray_05.png",
+      "frames/pray/pray_06.png",
+      "frames/pray/pray_07.png",
+      "frames/pray/pray_08.png"
+    ],
+    "frame_duration_ms": [
+      240,
+      220,
+      350,
+      300,
+      500,
+      300,
+      260,
+      240
+    ],
+    "loop": false,
+    "timing_note": "8 drawn keyframes; adjust nonuniform timing in Animation editor or frame controller",
+    "frame_size": [
+      512,
+      768
+    ],
+    "anchor": [
+      0.5,
+      0.08333333333333333
+    ],
+    "ground_y_from_top": 704,
+    "details": [
+      {
+        "frame": 1,
+        "source_cell": [
+          0,
+          0,
+          362,
+          543
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          9,
+          62
+        ],
+        "visible_bbox": [
+          61,
+          83,
+          466,
+          758
+        ]
+      },
+      {
+        "frame": 2,
+        "source_cell": [
+          362,
+          0,
+          724,
+          543
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          9,
+          62
+        ],
+        "visible_bbox": [
+          28,
+          83,
+          459,
+          726
+        ]
+      },
+      {
+        "frame": 3,
+        "source_cell": [
+          724,
+          0,
+          1086,
+          543
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          9,
+          62
+        ],
+        "visible_bbox": [
+          80,
+          83,
+          480,
+          742
+        ]
+      },
+      {
+        "frame": 4,
+        "source_cell": [
+          1086,
+          0,
+          1448,
+          543
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          10,
+          62
+        ],
+        "visible_bbox": [
+          10,
+          98,
+          442,
+          755
+        ]
+      },
+      {
+        "frame": 5,
+        "source_cell": [
+          0,
+          543,
+          362,
+          1086
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          10,
+          62
+        ],
+        "visible_bbox": [
+          35,
+          119,
+          452,
+          720
+        ]
+      },
+      {
+        "frame": 6,
+        "source_cell": [
+          362,
+          543,
+          724,
+          1086
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          10,
+          62
+        ],
+        "visible_bbox": [
+          40,
+          92,
+          447,
+          721
+        ]
+      },
+      {
+        "frame": 7,
+        "source_cell": [
+          724,
+          543,
+          1086,
+          1086
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          9,
+          62
+        ],
+        "visible_bbox": [
+          39,
+          78,
+          444,
+          741
+        ]
+      },
+      {
+        "frame": 8,
+        "source_cell": [
+          1086,
+          543,
+          1448,
+          1086
+        ],
+        "uniform_scale": 1.3,
+        "translation": [
+          8,
+          62
+        ],
+        "visible_bbox": [
+          69,
+          79,
+          445,
+          729
+        ],
+        "note": "reuse first frame for exact idle endpoint"
+      }
+    ]
+  },
+  "incense": {
+    "frames": [
+      "frames/incense/incense_01.png",
+      "frames/incense/incense_02.png",
+      "frames/incense/incense_03.png",
+      "frames/incense/incense_04.png",
+      "frames/incense/incense_05.png",
+      "frames/incense/incense_06.png",
+      "frames/incense/incense_07.png",
+      "frames/incense/incense_08.png"
+    ],
+    "frame_duration_ms": [
+      280,
+      260,
+      450,
+      350,
+      500,
+      250,
+      260,
+      300
+    ],
+    "loop": false,
+    "timing_note": "8 drawn keyframes; adjust nonuniform timing in Animation editor or frame controller",
+    "frame_size": [
+      512,
+      768
+    ],
+    "anchor": [
+      0.5,
+      0.08333333333333333
+    ],
+    "ground_y_from_top": 704,
+    "details": [
+      {
+        "frame": 1,
+        "source_cell": [
+          0,
+          0,
+          362,
+          543
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          15,
+          56
+        ],
+        "visible_bbox": [
+          61,
+          74,
+          406,
+          735
+        ]
+      },
+      {
+        "frame": 2,
+        "source_cell": [
+          362,
+          0,
+          724,
+          543
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          15,
+          56
+        ],
+        "visible_bbox": [
+          46,
+          74,
+          418,
+          730
+        ]
+      },
+      {
+        "frame": 3,
+        "source_cell": [
+          724,
+          0,
+          1086,
+          543
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          15,
+          56
+        ],
+        "visible_bbox": [
+          69,
+          74,
+          471,
+          740
+        ]
+      },
+      {
+        "frame": 4,
+        "source_cell": [
+          1086,
+          0,
+          1448,
+          543
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          44,
+          56
+        ],
+        "visible_bbox": [
+          44,
+          86,
+          475,
+          740
+        ]
+      },
+      {
+        "frame": 5,
+        "source_cell": [
+          0,
+          543,
+          362,
+          1086
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          17,
+          58
+        ],
+        "visible_bbox": [
+          61,
+          58,
+          472,
+          728
+        ]
+      },
+      {
+        "frame": 6,
+        "source_cell": [
+          362,
+          543,
+          724,
+          1086
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          17,
+          58
+        ],
+        "visible_bbox": [
+          61,
+          67,
+          473,
+          726
+        ]
+      },
+      {
+        "frame": 7,
+        "source_cell": [
+          724,
+          543,
+          1086,
+          1086
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          15,
+          58
+        ],
+        "visible_bbox": [
+          67,
+          58,
+          418,
+          722
+        ]
+      },
+      {
+        "frame": 8,
+        "source_cell": [
+          1086,
+          543,
+          1448,
+          1086
+        ],
+        "uniform_scale": 1.26,
+        "translation": [
+          17,
+          58
+        ],
+        "visible_bbox": [
+          76,
+          58,
+          410,
+          722
+        ]
+      }
+    ]
+  },
+  "sit_down": {
+    "frames": [
+      "frames/sit_down/sit_down_01.png",
+      "frames/sit_down/sit_down_02.png",
+      "frames/sit_down/sit_down_03.png",
+      "frames/sit_down/sit_down_04.png",
+      "frames/sit_down/sit_down_05.png",
+      "frames/sit_down/sit_down_06.png",
+      "frames/sit_down/sit_down_07.png",
+      "frames/sit_down/sit_down_08.png"
+    ],
+    "frame_duration_ms": [
+      160,
+      160,
+      180,
+      200,
+      240,
+      220,
+      240,
+      300
+    ],
+    "loop": false,
+    "timing_note": "8 drawn keyframes; adjust nonuniform timing in Animation editor or frame controller",
+    "frame_size": [
+      512,
+      768
+    ],
+    "anchor": [
+      0.5,
+      0.08333333333333333
+    ],
+    "ground_y_from_top": 704,
+    "details": [
+      {
+        "frame": 1,
+        "source_cell": [
+          0,
+          0,
+          362,
+          543
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          25,
+          44
+        ],
+        "visible_bbox": [
+          159,
+          60,
+          346,
+          712
+        ]
+      },
+      {
+        "frame": 2,
+        "source_cell": [
+          362,
+          0,
+          724,
+          543
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          42,
+          44
+        ],
+        "visible_bbox": [
+          159,
+          94,
+          360,
+          714
+        ]
+      },
+      {
+        "frame": 3,
+        "source_cell": [
+          724,
+          0,
+          1086,
+          543
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          61,
+          44
+        ],
+        "visible_bbox": [
+          157,
+          141,
+          393,
+          713
+        ]
+      },
+      {
+        "frame": 4,
+        "source_cell": [
+          1086,
+          0,
+          1448,
+          543
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          75,
+          44
+        ],
+        "visible_bbox": [
+          144,
+          202,
+          413,
+          713
+        ]
+      },
+      {
+        "frame": 5,
+        "source_cell": [
+          0,
+          543,
+          362,
+          1086
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          35,
+          74
+        ],
+        "visible_bbox": [
+          124,
+          219,
+          391,
+          713
+        ]
+      },
+      {
+        "frame": 6,
+        "source_cell": [
+          362,
+          543,
+          724,
+          1086
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          32,
+          80
+        ],
+        "visible_bbox": [
+          32,
+          233,
+          469,
+          719
+        ]
+      },
+      {
+        "frame": 7,
+        "source_cell": [
+          724,
+          543,
+          1086,
+          1086
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          26,
+          78
+        ],
+        "visible_bbox": [
+          119,
+          263,
+          478,
+          717
+        ]
+      },
+      {
+        "frame": 8,
+        "source_cell": [
+          1086,
+          543,
+          1448,
+          1086
+        ],
+        "uniform_scale": 1.25,
+        "translation": [
+          30,
+          78
+        ],
+        "visible_bbox": [
+          30,
+          263,
+          416,
+          717
+        ]
+      }
+    ]
+  },
+  "wooden_fish": {
+    "frames": [
+      "frames/wooden_fish/wooden_fish_01.png",
+      "frames/wooden_fish/wooden_fish_02.png",
+      "frames/wooden_fish/wooden_fish_03.png",
+      "frames/wooden_fish/wooden_fish_04.png",
+      "frames/wooden_fish/wooden_fish_05.png",
+      "frames/wooden_fish/wooden_fish_06.png",
+      "frames/wooden_fish/wooden_fish_07.png",
+      "frames/wooden_fish/wooden_fish_08.png"
+    ],
+    "frame_duration_ms": [
+      120,
+      100,
+      100,
+      55,
+      70,
+      90,
+      95,
+      120
+    ],
+    "loop": true,
+    "timing_note": "8 drawn keyframes; adjust nonuniform timing in Animation editor or frame controller",
+    "frame_size": [
+      512,
+      768
+    ],
+    "anchor": [
+      0.5,
+      0.08333333333333333
+    ],
+    "ground_y_from_top": 704,
+    "details": [
+      {
+        "frame": 1,
+        "source_cell": [
+          0,
+          0,
+          362,
+          543
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          66,
+          224
+        ],
+        "visible_bbox": [
+          66,
+          233,
+          428,
+          767
+        ]
+      },
+      {
+        "frame": 2,
+        "source_cell": [
+          362,
+          0,
+          724,
+          543
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          66,
+          224
+        ],
+        "visible_bbox": [
+          66,
+          241,
+          428,
+          767
+        ]
+      },
+      {
+        "frame": 3,
+        "source_cell": [
+          724,
+          0,
+          1086,
+          543
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          66,
+          224
+        ],
+        "visible_bbox": [
+          66,
+          241,
+          428,
+          767
+        ]
+      },
+      {
+        "frame": 4,
+        "source_cell": [
+          1086,
+          0,
+          1448,
+          543
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          66,
+          224
+        ],
+        "visible_bbox": [
+          66,
+          241,
+          409,
+          767
+        ]
+      },
+      {
+        "frame": 5,
+        "source_cell": [
+          0,
+          543,
+          362,
+          1086
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          67,
+          224
+        ],
+        "visible_bbox": [
+          67,
+          224,
+          429,
+          757
+        ]
+      },
+      {
+        "frame": 6,
+        "source_cell": [
+          362,
+          543,
+          724,
+          1086
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          67,
+          224
+        ],
+        "visible_bbox": [
+          67,
+          224,
+          429,
+          757
+        ]
+      },
+      {
+        "frame": 7,
+        "source_cell": [
+          724,
+          543,
+          1086,
+          1086
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          67,
+          224
+        ],
+        "visible_bbox": [
+          67,
+          224,
+          429,
+          767
+        ]
+      },
+      {
+        "frame": 8,
+        "source_cell": [
+          1086,
+          543,
+          1448,
+          1086
+        ],
+        "uniform_scale": 1.0,
+        "translation": [
+          67,
+          224
+        ],
+        "visible_bbox": [
+          67,
+          224,
+          419,
+          767
+        ],
+        "note": "reuse first frame for exact idle endpoint"
+      }
+    ]
+  },
+  "stand_up": {
+    "frames": [
+      "frames/stand_up/stand_up_01.png",
+      "frames/stand_up/stand_up_02.png",
+      "frames/stand_up/stand_up_03.png",
+      "frames/stand_up/stand_up_04.png",
+      "frames/stand_up/stand_up_05.png",
+      "frames/stand_up/stand_up_06.png",
+      "frames/stand_up/stand_up_07.png",
+      "frames/stand_up/stand_up_08.png"
+    ],
+    "frame_size": [
+      512,
+      768
+    ],
+    "frame_duration_ms": [
+      300,
+      240,
+      220,
+      240,
+      200,
+      180,
+      160,
+      160
+    ],
+    "loop": false,
+    "source": "sit_down reversed; prototype transition, not separately drawn",
+    "anchor": [
+      0.5,
+      0.08333333333333333
+    ],
+    "ground_y_from_top": 704
+  },
+  "events": {
+    "incense": {
+      "after_frame": 5,
+      "event": "insert_incense",
+      "note": "switch to external incense at frame6, calibrate hand endpoint to close-up burner"
+    },
+    "wooden_fish": {
+      "frame": 5,
+      "event": "wooden_fish_contact",
+      "note": "position fish to match mallet tip; baked mallet, hide separate static mallet"
+    }
+  },
+  "character": "male"
+}

@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d6026cf9-42a3-4106-8f5c-644bcc06319c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d6026cf9-42a3-4106-8f5c-644bcc06319c@6c48a",
+      "displayName": "wind_bell",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "d6026cf9-42a3-4106-8f5c-644bcc06319c",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "d6026cf9-42a3-4106-8f5c-644bcc06319c@f9941",
+      "displayName": "wind_bell",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 8,
+        "trimY": 8,
+        "width": 113,
+        "height": 360,
+        "rawWidth": 129,
+        "rawHeight": 376,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -56.5,
+            -180,
+            0,
+            56.5,
+            -180,
+            0,
+            -56.5,
+            180,
+            0,
+            56.5,
+            180,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            8,
+            368,
+            121,
+            368,
+            8,
+            8,
+            121,
+            8
+          ],
+          "nuv": [
+            0.06201550387596899,
+            0.02127659574468085,
+            0.937984496124031,
+            0.02127659574468085,
+            0.06201550387596899,
+            0.9787234042553191,
+            0.937984496124031,
+            0.9787234042553191
+          ],
+          "minPos": [
+            -56.5,
+            -180,
+            0
+          ],
+          "maxPos": [
+            56.5,
+            180,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d6026cf9-42a3-4106-8f5c-644bcc06319c@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "d6026cf9-42a3-4106-8f5c-644bcc06319c@6c48a"
+  }
+}

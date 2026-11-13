@@ -1,0 +1,37 @@
+
+#///////////////////////////
+# Cocos Creator 3D Project
+#///////////////////////////
+library/
+temp/
+local/
+build/
+profiles/
+native
+#//////////////////////////
+# NPM
+#//////////////////////////
+node_modules/
+
+#//////////////////////////
+# VSCode
+#//////////////////////////
+.vscode/
+
+#//////////////////////////
+# WebStorm
+#//////////////////////////
+.idea/
+
+# Local validation output and source/reference packages
+validation/
+docs/
+
+# Internal integration reports
+ART_INTEGRATION.md
+FIXES_AND_AUDIO.md
+HOME_INTEGRATION.md
+MALE_MOTION_INTEGRATION.md
+MOTION_INTEGRATION.md
+PROTOTYPE.md
+VIDEO_FIX_REPORT.md
